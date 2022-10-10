@@ -1,0 +1,31 @@
+body{
+    background-image: url("office1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header-text p{
+    
+    margin-left: 60px;
+    font-size: 20px;
+    font-weight: normal;
+    font-family: 'Times New Roman', Times, serif; 
+    color: rgb(225, 221, 221);   
+}
+.header-text h1{
+    font-size: 60px;
+    margin-top: 5%;
+    margin-left: 60px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    font-weight: bold;
+}
+.header-text table{
+    font-size: 15px;
+    text-align: center;
+    font-weight: lighter;
+    margin-left: 60px;
+    width: 500px;
+    height: 100px;
+}
+

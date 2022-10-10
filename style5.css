@@ -1,0 +1,23 @@
+body{
+    background-color: lightpink;
+    
+}
+h1{
+    font-size: 70px;
+    font-weight: bold;
+    text-align: center;
+}
+ol{
+    
+    font-size: 30px;
+    padding: 0 400px 0 400px;
+    
+
+}
+li{
+    padding-bottom: 30px;
+    border: 50px;
+    margin: 50px;
+    background-color: #ecffc4;
+    font-style: oblique;
+}
